@@ -5,5 +5,5 @@
 	"icon": "minecraft:gunpowder",
 	"order": 6,
 	"impact": 1,
-	"unchoosable": true
+	"unchoosable": false
 }
