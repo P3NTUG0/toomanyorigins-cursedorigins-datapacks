@@ -4,5 +4,5 @@
 	"icon": "minecraft:rabbit_foot",
 	"order": 5,
 	"impact": 1,
-	"unchoosable": true
+	"unchoosable": false
 }
