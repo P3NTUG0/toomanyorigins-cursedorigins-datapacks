@@ -5,5 +5,5 @@
 	"icon": "minecraft:ritten_flesh",
 	"order": 2,
 	"impact": 2,
-	"unchoosable": true
+	"unchoosable": false
 }
