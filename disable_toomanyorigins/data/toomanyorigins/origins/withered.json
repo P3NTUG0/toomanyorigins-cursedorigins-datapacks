@@ -5,5 +5,5 @@
 	"icon": "minecraft:wither_rose",
 	"order": 3,
 	"impact": 2,
-	"unchoosable": true
+	"unchoosable": false
 }
